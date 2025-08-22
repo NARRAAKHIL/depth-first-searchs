@@ -1,5 +1,5 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1>
-<h3> Date: 12/08/2025</h3>
+<h3> Date: 22/08/2025</h3>
 <h3>Name: NARRA AKHIL</h3>
 <h3>Register Number: 212223230136</h3>
 <H3>Aim:</H3>
